@@ -1,2 +1,2 @@
 # swe_project
-This group is created for the project of Software Engineering.
+This repository is created for the individual project of Software Engineering, Amanda Peza, BINF III-B.
